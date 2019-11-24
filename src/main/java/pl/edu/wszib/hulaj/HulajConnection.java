@@ -65,7 +65,7 @@ public class HulajConnection {
 
     public static Scooter getUpdate(String model){
         try{
-            String sqlSelect = "SELECT * FROM scooter WHERE model = ?";
+            String sqlSelect = "Update FROM scooter set model = ? WHERE model = ?";
             PreparedStatement preparedStatement = HulajConnection.connection.prepareStatement(sqlSelect);
             preparedStatement.setString(1,model);
             ResultSet resultSet = preparedStatement.executeQuery();
@@ -84,7 +84,7 @@ public class HulajConnection {
     }
 
     public static Scooter removeScooterId(int scooterId){
-        String sqlSelect = "SELECT * FROM scooter WHERE scooterId = ?";
+        String sqlSelect = "DELETE FROM scooter WHERE scooterId = ?";
         try{
             PreparedStatement preparedStatement = HulajConnection.connection.prepareStatement(sqlSelect);
             preparedStatement.setInt(1,scooterId);
