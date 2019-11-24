@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="821b41a8-e189-4633-adbd-18600606f6a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/HulajConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/HulajConnection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,12 +55,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1590" />
+          <entry key="java" value="1618" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1590" />
+          <entry key="JAVA" value="1618" />
         </counts>
       </usages-collector>
     </session>
@@ -104,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/HulajConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+            <state relative-caret-position="286">
+              <caret line="86" column="34" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,10 +154,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/model/Scooter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/HulajConnection.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/model/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/gui/Gui.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/repository/HulajRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/HulajConnection.java" />
       </list>
     </option>
   </component>
@@ -186,6 +186,27 @@
             </path>
             <path>
               <item name="hulajConnection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hulajConnection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hulajConnection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hulajConnection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hulajConnection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hulajConnection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hulajConnection" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -197,7 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574594150259" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574594705268" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Study/obiektowe/laboratorium/AkademiaKoduJava9-04.14-JDBC-master" />
   </component>
   <component name="RunDashboard">
@@ -227,6 +248,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5159501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -278,8 +300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/edu/wszib/hulaj/HulajConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        <state relative-caret-position="286">
+          <caret line="86" column="34" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
